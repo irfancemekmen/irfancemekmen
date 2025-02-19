@@ -1,10 +1,51 @@
-<h1 align="center">Hi 👋, I'm İrfan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0180.gif" width="1920" />
 
+
+
+## <img src="https://www.animatedimages.org/data/media/903/animated-turkey-flag-image-0024.gif" width="25"><b>About Me</b>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Oleo Script&size=50&pause=1000&color=00bfff&center=true&vCenter=true&repeat=true&width=435&lines=Irfan+Cem+EKMEN;" alt="Typing SVG" />
+        </a>
+</b>
+  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Oleo Script&size=50&pause=1000&color=00bfff&center=true&vCenter=true&repeat=true&width=435&lines=42+Türkiye;" alt="Typing SVG" />
+    </a>
+</b>
+
+  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/irfancemekmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irfancemekmen" height="30" width="40" /></a>
 </p>
 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+
+<div align="center"> 
+<br>
+ 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+</div>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irfancemekmen&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="424" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfancemekmen&layout=compact&theme=gruvbox" alt="Top Languages" width="380" style="max-width: 100%;">
+</p>
