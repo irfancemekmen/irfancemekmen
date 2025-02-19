@@ -33,19 +33,4 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 
-<div align="center"> 
-<br>
- 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-</div>
-
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfancemekmen&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="424" style="max-width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfancemekmen&layout=compact&theme=gruvbox" alt="Top Languages" width="380" style="max-width: 100%;">
-</p>
