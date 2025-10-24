@@ -1,40 +1,65 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0180.gif" width="1920" />
+<h1 align="center">👋 Hi, I'm <span style="color:#00F7FF;">İrfan</span></h1>
+<h3 align="center">Frontend Developer · 42 Kocaeli Student</h3>
 
+---
 
+<!-- Banner veya görsel -->
+<p align="center">
+  <img src="https://github.com/irfancemekmen/irfancemekmen/blob/main/assets/banner.gif" alt="Banner" width="80%" />
+</p>
 
-## <img src="https://www.animatedimages.org/data/media/903/animated-turkey-flag-image-0024.gif" width="25"><b>About Me</b>
+---
+
+### 🚀 About Me
+
+- 🌱 I’m currently learning **Next.js**, **Node.js**, and **TypeScript**  
+- 🎓 Student at **42 Kocaeli**  
+- 💡 Passionate about **frontend development** and **clean design**  
+- ⚡ Fun fact: I enjoy debugging more than coding itself  
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfancemekmen&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfancemekmen&hide=roff,perl&layout=compact&theme=radical" height="180em" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=irfancemekmen&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfancemekmen&hide=roff,perl&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/irfancemekmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irfancemekmen" height="30" width="40" /></a>
-</p>
+---
 
+### 🌐 Connect with Me
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<p align="center">
+  <a href="https://instagram.com/irfancemekmen" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="mailto:irfancemekmen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
+---
 
+### 🧰 Languages & Tools
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0180.gif" width="80%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=irfancemekmen&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
+</p>
