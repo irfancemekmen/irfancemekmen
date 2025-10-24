@@ -5,16 +5,17 @@
 ## <img src="https://www.animatedimages.org/data/media/903/animated-turkey-flag-image-0024.gif" width="25"><b>About Me</b>
 
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Oleo Script&size=50&pause=1000&color=00bfff&center=true&vCenter=true&repeat=true&width=435&lines=Irfan+Cem+EKMEN;" alt="Typing SVG" />
-        </a>
-</b>
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Oleo+Script&size=50&pause=1000&color=00bfff&center=true&vCenter=true&repeat=true&width=600&lines=Irfan+Cem+EKMEN;" alt="Typing SVG" />
+  </a>
+</div>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Oleo Script&size=50&pause=1000&color=00bfff&center=true&vCenter=true&repeat=true&width=435&lines=42+Türkiye;" alt="Typing SVG" />
-    </a>
-</b>
+    <img src="https://readme-typing-svg.demolab.com?font=Oleo+Script&size=50&pause=1000&color=00bfff&center=true&vCenter=true&repeat=true&width=600&lines=42+Türkiye;" alt="Typing SVG" />
+  </a>
+</div>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfancemekmen&show_icons=true&theme=radical)
 
