@@ -17,13 +17,12 @@
 </div>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfancemekmen&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irfancemekmen&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfancemekmen&layout=compact&theme=radical" height="180em" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfancemekmen&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=irfancemekmen&theme=tokyo-night)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irfancemekmen&theme=radical)
 
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
