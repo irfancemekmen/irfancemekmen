@@ -5,28 +5,11 @@
 ## <img src="https://www.animatedimages.org/data/media/903/animated-turkey-flag-image-0024.gif" width="25"><b>About Me</b>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Oleo+Script&size=50&pause=1000&color=00bfff&center=true&vCenter=true&repeat=true&width=600&lines=Irfan+Cem+EKMEN;" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Oleo+Script&size=50&pause=1000&color=00bfff&center=true&vCenter=true&repeat=true&width=600&lines=42+Türkiye;" alt="Typing SVG" />
-  </a>
-</div>
-
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irfancemekmen&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfancemekmen&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfancemekmen&hide=roff,perl&layout=compact&theme=radical" height="180em" />
 </div>
 
-
-
-  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
-
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +21,20 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+</p>
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
