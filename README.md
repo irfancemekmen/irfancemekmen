@@ -3,18 +3,10 @@
 
 ---
 
-<!-- Banner veya görsel -->
-<p align="center">
-  <img src="https://github.com/irfancemekmen/irfancemekmen/blob/main/assets/banner.gif" alt="Banner" width="80%" />
-</p>
-
----
-
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Next.js**, **Node.js**, and **TypeScript**  
+- 🌱 I’m currently learning **Next.js**, **Node.js**, **TypeScript** and **.Net** 
 - 🎓 Student at **42 Kocaeli**  
-- 💡 Passionate about **frontend development** and **clean design**  
 - ⚡ Fun fact: I enjoy debugging more than coding itself  
 
 ---
@@ -22,7 +14,6 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=irfancemekmen&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfancemekmen&hide=roff,perl&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </div>
 
