@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00F7FF;">İrfan</span></h1>
-<h3 align="center">Frontend Developer · 42 Kocaeli Student</h3>
+<h3 align="center">Software Developer · 42 Kocaeli Student</h3>
 
 ---
 
